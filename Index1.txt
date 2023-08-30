@@ -1,1 +1,7 @@
-This is new Index1 File
+This is new Index1 File!!
+
+This is new Modification
+
+once again modified
+
+new message without commit and append to last commit
