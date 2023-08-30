@@ -5,3 +5,5 @@ This is new Modification
 once again modified
 
 new message without commit and append to last commit
+
+once again modified
